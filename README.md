@@ -1,4 +1,4 @@
-![img][]
+![screenshot](https://github.com/dawidekszopen/dawidek-dotfiles/blob/master/screenshots/2024-09-21_23-42.png)
 
 ## Requirements
 - [omg](https://github.com/oh-my-fish/oh-my-fish)
