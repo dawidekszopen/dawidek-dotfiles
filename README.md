@@ -1,3 +1,5 @@
+![img][]
+
 ## Requirements
 - [omg](https://github.com/oh-my-fish/oh-my-fish)
 - [awesome wm](https://awesomewm.org/)

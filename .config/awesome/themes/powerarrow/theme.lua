@@ -16,7 +16,7 @@ local my_table = awful.util.table or gears.table -- 4.{0,1} compatibility
 
 local theme                                     = {}
 theme.dir                                       = os.getenv("HOME") .. "/.config/awesome/themes/powerarrow"
-theme.wallpaper                                 = "~/Photos/bg.jpg"
+theme.wallpaper                                 = "~/dotfiles/bg.jpg"
 theme.font                                      = "ProFontWindows Nerd Font"
 theme.fg_normal                                 = "#ebdbb2"
 theme.fg_focus                                  = "#cc241d"
